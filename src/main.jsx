@@ -8,8 +8,4 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
-/*const DATA = [
-  { id: "todo-0", name: "Eat", completed: true },
-  { id: "todo-1", name: "Sleep", completed: false },
-  { id: "todo-2", name: "Repeat", completed: false },
-];*/
+
